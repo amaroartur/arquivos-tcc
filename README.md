@@ -9,10 +9,10 @@ Tanto em 2023 quanto em 2024, a base compartilha os seguintes atributos principa
 - Visitante: Nome do time visitante na partida.
 - Resultado: Resultado real da partida, codificado da seguinte forma:
 
-1 – Vitória do mandante
-2 – Vitória do visitante
-0 – Empate
--1 – Informação não disponível
+  - 1 – Vitória do mandante
+  - 2 – Vitória do visitante
+  - 0 – Empate
+  - -1 – Informação não disponível
 
 📅 Dados de 2023
 A aba '2023' da base de dados inclui os seguintes colunistas, cujos palpites foram extraídos do portal ge.globo.com (Globo Esporte), com exceção do último, que pertence a um portal externo:
@@ -43,8 +43,11 @@ Na aba '2024' da base de dados, também composta majoritariamente por colunistas
 🔗 Aba URLs
 A aba URLs da planilha reúne todos os links consultados durante o processo de coleta manual dos dados. Cada conjunto de links está nomeado no seguinte formato:
 
-<nome do site> - <edição do campeonato>
-Exemplo: GE - 2023, 90minutos - 2024, etc.
+[nome do site] - [edição do campeonato]  
+
+Exemplo:
+- GloboEsporte - 2023
+- 90minutos - 2024
 
 🧠 Aba UmDois2023
 Essa aba foi gerada automaticamente com os dados extraídos por meio de um scraper implementado em Python com a biblioteca BeautifulSoup. O funcionamento detalhado desse processo está descrito no capítulo de Desenvolvimento do TCC.
