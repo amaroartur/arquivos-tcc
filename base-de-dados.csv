@@ -1,0 +1,388 @@
+Rodada,Mandante,Visitante,Resultado,André Loffredo,Alex Escobar,Carlos Mansur,Espião Estatístico,Felipe Diniz,Jessica Cescon,Rodrigo Coutinho,Tiago Medeiros,90 minutos
+1,Internacional,Bahia,1,1,1,0,1,1,0,1,1,1
+1,Criciúma,Juventude,0,0,2,1,1,0,1,2,1,1
+1,Fluminense,Bragantino,0,1,0,1,1,1,1,1,1,1
+1,São Paulo,Fortaleza,2,1,1,0,1,1,2,2,0,0
+1,Vasco,Grêmio,1,0,2,1,1,0,0,0,1,0
+1,Corinthians,Atlético-MG,0,0,2,0,1,2,1,2,0,0
+1,Athletico-PR,Cuiabá,1,1,1,1,1,1,1,1,1,0
+1,Atlético-GO,Flamengo,2,2,2,2,2,2,2,0,2,2
+1,Cruzeiro,Botafogo,1,2,0,0,1,0,0,2,0,0
+1,Vitória,Palmeiras,2,2,2,2,2,2,2,2,2,2
+2,Bahia,Fluminense,1,0,1,0,1,0,2,0,1,1
+2,Grêmio,Athletico-PR,1,0,0,2,1,2,2,2,1,0
+2,Bragantino,Vasco,1,1,1,1,1,0,1,0,0,1
+2,Atlético-MG,Criciúma,0,1,1,1,1,1,1,1,1,1
+2,Palmeiras,Internacional,2,1,1,1,1,1,1,1,0,1
+2,Fortaleza,Cruzeiro,0,1,1,1,1,1,0,0,1,1
+2,Juventude,Corinthians,1,0,0,0,2,1,0,0,1,0
+2,Flamengo,São Paulo,1,1,1,1,1,1,1,1,1,1
+2,Botafogo,Atlético-GO,1,1,0,1,1,1,0,0,1,1
+2,Cuiabá,Vitória,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+3,Fluminense,Vasco,1,0,0,2,1,0,0,0,1,0
+3,Grêmio,Cuiabá,1,1,1,1,1,1,1,1,1,1
+3,Bragantino,Corinthians,1,0,1,1,1,0,1,1,1,0
+3,Atlético-MG,Cruzeiro,1,1,1,1,1,1,0,1,1,0
+3,Vitória,Bahia,0,0,0,2,1,2,0,0,1,1
+3,Palmeiras,Flamengo,0,0,1,1,1,0,0,0,0,1
+3,Athletico-PR,Internacional,1,1,1,1,1,1,1,1,1,1
+3,Botafogo,Juventude,1,1,1,1,1,1,1,1,1,1
+3,Atlético-GO,São Paulo,2,0,1,1,2,1,1,1,1,0
+3,Criciúma,Fortaleza,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+4,Vasco,Criciúma,2,1,1,1,1,1,1,1,1,1
+4,Cuiabá,Atlético-MG,2,2,0,2,2,2,2,0,2,2
+4,Bahia,Grêmio,1,0,1,1,1,0,1,1,1,0
+4,Flamengo,Botafogo,2,0,1,0,1,0,0,1,1,1
+4,Cruzeiro,Vitória,1,0,1,0,1,1,1,0,1,1
+4,Corinthians,Fluminense,1,2,2,0,1,2,2,0,0,0
+4,Fortaleza,Bragantino,0,0,2,0,1,1,1,1,0,2
+4,Juventude,Athletico-PR,0,2,2,2,2,0,0,0,0,2
+4,Internacional,Atlético-GO,0,1,1,1,1,1,1,1,1,1
+4,São Paulo,Palmeiras,0,0,0,0,2,0,0,2,2,0
+5,Fluminense,Atlético-MG,0,2,0,0,2,0,1,2,2,0
+5,Bragantino,Flamengo,0,0,2,0,2,2,0,0,1,0
+5,Corinthians,Fortaleza,0,1,0,1,1,2,0,2,1,2
+5,Vitória,São Paulo,2,0,1,0,2,0,2,0,0,2
+5,Athletico-PR,Vasco,1,1,1,1,1,1,1,1,1,0
+5,Botafogo,Bahia,2,1,1,1,1,1,1,1,1,0
+5,Cuiabá,Palmeiras,2,2,2,2,2,2,2,2,2,2
+5,Juventude,Atlético-GO,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5,Cruzeiro,Internacional,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+5,Grêmio,Criciúma,2,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6,Flamengo,Corinthians,1,0,1,1,1,1,1,1,1,1
+6,Palmeiras,Athletico-PR,2,1,2,1,1,1,0,0,1,0
+6,Fortaleza,Botafogo,0,0,2,0,1,0,0,2,2,2
+6,Atlético-GO,Cruzeiro,2,0,0,1,2,0,1,0,1,2
+6,Bahia,Bragantino,1,1,1,1,1,1,0,1,1,1
+6,Vasco,Vitória,1,0,1,1,1,1,1,0,1,1
+6,São Paulo,Fluminense,1,1,1,1,1,1,1,1,0,0
+6,Criciúma,Cuiabá,2,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6,Internacional,Juventude,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+6,Atlético-MG,Grêmio,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+7,Grêmio,Bragantino,2,0,0,1,2,1,1,0,1,0
+7,Vitória,Atlético-GO,2,1,1,1,1,0,1,0,1,2
+7,Fluminense,Juventude,0,1,1,1,1,1,1,1,1,1
+7,Cuiabá,Internacional,2,2,2,0,2,2,2,0,2,2
+7,Corinthians,Botafogo,2,0,2,1,1,0,0,0,1,1
+7,Atlético-MG,Bahia,0,1,2,1,1,1,0,1,1,1
+7,Vasco,Flamengo,2,2,0,2,2,2,0,2,0,2
+7,Criciúma,Palmeiras,2,2,2,0,2,0,1,0,0,2
+7,São Paulo,Cruzeiro,1,1,1,1,1,1,0,1,1,0
+7,Fortaleza,Athletico-PR,1,0,0,0,1,0,1,0,1,0
+8,Atlético-GO,Corinthians,0,2,1,0,1,1,1,1,1,1
+8,Juventude,Vitória,0,1,1,1,1,1,1,1,1,1
+8,Botafogo,Fluminense,1,1,0,0,1,0,1,1,1,0
+8,Bragantino,Atlético-MG,2,0,2,0,1,0,2,0,0,1
+8,Cruzeiro,Cuiabá,1,1,1,1,1,1,1,1,1,1
+8,Internacional,São Paulo,0,0,1,0,0,0,0,2,2,2
+8,Flamengo,Grêmio,1,1,1,1,1,1,1,1,1,1
+8,Athletico-PR,Criciúma,1,1,1,1,1,1,1,1,1,0
+8,Bahia,Fortaleza,1,1,1,1,1,1,0,0,1,1
+8,Palmeiras,Vasco,1,1,1,1,1,1,1,1,1,1
+9,Bragantino,Juventude,1,1,0,1,1,1,1,0,1,1
+9,Fluminense,Atlético-GO,2,1,0,1,1,1,1,1,1,0
+9,Vitória,Internacional,1,0,2,0,2,0,2,0,0,2
+9,Corinthians,São Paulo,0,0,2,0,2,2,1,0,0,2
+9,Athletico-PR,Flamengo,0,0,0,1,1,0,0,0,0,2
+9,Grêmio,Botafogo,2,2,2,2,2,2,2,2,2,0
+9,Vasco,Cruzeiro,0,2,2,0,2,0,0,0,0,2
+9,Cuiabá,Fortaleza,1,2,2,2,2,2,2,1,2,0
+9,Criciúma,Bahia,0,2,2,1,1,2,0,0,1,2
+9,Atlético-MG,Palmeiras,2,1,1,1,2,1,1,2,1,2
+10,Botafogo,Athletico-PR,0,1,1,1,1,1,1,0,1,1
+10,Atlético-GO,Criciúma,2,0,1,1,1,1,0,1,0,1
+10,São Paulo,Cuiabá,2,1,1,1,1,1,1,1,1,1
+10,Fortaleza,Grêmio,1,1,0,0,1,0,0,1,1,0
+10,Juventude,Vasco,1,0,0,0,1,1,1,1,0,1
+10,Internacional,Corinthians,1,0,2,1,1,1,0,0,1,1
+10,Cruzeiro,Fluminense,1,1,1,0,1,0,1,0,0,0
+10,Vitória,Atlético-MG,1,0,0,0,2,0,1,0,0,2
+10,Flamengo,Bahia,1,1,0,1,1,0,1,1,1,1
+10,Palmeiras,Bragantino,1,1,1,1,1,1,1,1,1,1
+11,Criciúma,Botafogo,1,2,0,0,2,2,0,0,2,2
+11,Grêmio,Internacional,2,0,2,1,2,1,1,0,1,1
+11,Cuiabá,Atlético-GO,0,1,1,1,1,1,0,0,1,0
+11,Vasco,São Paulo,1,2,2,0,2,0,2,0,1,2
+11,Bahia,Cruzeiro,1,1,1,1,1,1,1,1,1,1
+11,Fluminense,Flamengo,2,2,2,0,2,2,0,2,2,2
+11,Athletico-PR,Corinthians,0,1,2,1,1,1,1,1,1,0
+11,Atlético-MG,Fortaleza,0,0,1,1,1,1,2,0,1,1
+11,Palmeiras,Juventude,1,1,1,1,1,1,1,1,1,1
+11,Bragantino,Vitória,1,1,2,1,0,1,1,1,1,1
+12,Cruzeiro,Athletico-PR,1,1,1,1,1,0,1,1,1,1
+12,Botafogo,Bragantino,1,1,1,1,1,1,0,1,0,1
+12,Corinthians,Cuiabá,0,1,1,1,1,1,2,0,1,1
+12,Atlético-GO,Grêmio,0,0,0,0,1,0,2,0,0,2
+12,Juventude,Flamengo,1,2,2,2,2,2,1,0,2,2
+12,Internacional,Atlético-MG,2,1,1,1,1,1,0,0,0,1
+12,Bahia,Vasco,1,0,0,1,1,1,1,1,1,1
+12,Fortaleza,Palmeiras,1,2,2,2,2,2,1,0,2,0
+12,Fluminense,Vitória,2,1,1,1,1,1,1,1,1,1
+12,São Paulo,Criciúma,1,1,0,1,1,0,1,1,1,1
+13,Vasco,Botafogo,0,2,0,0,2,0,2,0,1,2
+13,Cuiabá,Bragantino,0,0,1,1,1,0,0,0,1,2
+13,Atlético-MG,Atlético-GO,0,1,1,1,1,1,1,1,1,1
+13,Grêmio,Fluminense,1,0,1,1,1,1,1,0,0,1
+13,São Paulo,Bahia,1,0,2,0,1,2,0,0,0,1
+13,Fortaleza,Juventude,1,1,1,1,1,1,1,0,1,1
+13,Vitória,Athletico-PR,2,0,1,1,2,0,0,1,1,0
+13,Flamengo,Cruzeiro,1,1,1,0,1,1,0,0,1,1
+13,Criciúma,Internacional,0,0,1,1,2,1,1,0,1,2
+13,Palmeiras,Corinthians,1,1,1,1,1,1,1,1,1,1
+14,Cuiabá,Botafogo,2,2,0,2,2,2,2,2,2,0
+14,Vasco,Fortaleza,1,0,0,1,1,0,0,1,1,0
+14,Criciúma,Cruzeiro,1,0,2,0,0,1,2,0,2,0
+14,Atlético-MG,Flamengo,2,0,2,0,2,0,1,1,0,1
+14,Bragantino,Atlético-GO,1,1,0,1,1,1,0,1,1,1
+14,Athletico-PR,São Paulo,2,0,1,1,1,0,1,0,1,2
+14,Grêmio,Palmeiras,0,2,0,2,2,0,2,0,2,2
+14,Bahia,Juventude,1,1,1,1,1,1,0,0,1,1
+14,Fluminense,Internacional,0,0,0,1,2,0,2,0,2,0
+14,Corinthians,Vitória,1,1,1,1,1,1,1,1,1,1
+15,Flamengo,Cuiabá,0,1,1,1,1,1,1,1,1,1
+15,São Paulo,Bragantino,1,1,0,1,1,1,0,1,0,1
+15,Cruzeiro,Corinthians,1,1,1,1,1,1,1,1,1,1
+15,Fortaleza,Fluminense,1,1,0,0,1,1,1,0,1,0
+15,Juventude,Grêmio,1,0,1,1,1,0,2,1,1,2
+15,Internacional,Vasco,2,1,0,1,1,1,1,1,0,1
+15,Vitória,Criciúma,1,0,2,1,1,0,0,0,1,0
+15,Palmeiras,Bahia,1,1,1,1,1,1,2,0,1,0
+15,Atlético-GO,Athletico-PR,2,0,1,1,1,1,0,1,2,2
+15,Botafogo,Atlético-MG,1,1,1,1,1,1,1,1,1,1
+16,Grêmio,Cruzeiro,2,2,1,2,1,0,2,0,0,2
+16,Vasco,Corinthians,1,1,1,1,1,1,0,1,1,1
+16,Athletico-PR,Bahia,2,0,2,1,1,0,2,0,2,0
+16,Palmeiras,Atlético-GO,1,1,1,1,1,1,1,1,1,1
+16,Flamengo,Fortaleza,2,1,1,1,1,1,1,1,1,1
+16,Criciúma,Fluminense,0,1,1,1,1,1,1,0,1,0
+16,Atlético-MG,São Paulo,1,2,2,1,1,2,0,0,1,0
+16,Vitória,Botafogo,2,2,2,2,2,2,0,0,0,2
+16,Cuiabá,Juventude,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+16,Bragantino,Internacional,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+17,Cruzeiro,Bragantino,1,1,1,1,1,1,1,0,1,1
+17,Bahia,Cuiabá,2,1,1,1,1,1,1,1,1,1
+17,Juventude,Atlético-MG,0,0,1,2,1,0,1,2,1,1
+17,Corinthians,Criciúma,1,1,2,1,1,0,0,0,0,1
+17,Atlético-GO,Vasco,2,2,2,0,1,0,0,0,2,2
+17,São Paulo,Grêmio,1,1,1,1,1,1,1,1,1,1
+17,Botafogo,Palmeiras,1,0,1,0,1,0,1,0,1,0
+17,Fortaleza,Vitória,1,1,1,1,1,1,1,1,1,1
+17,Fluminense,Athletico-PR,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+17,Internacional,Flamengo,0,-1,-1,-1,-1,-1,-1,-1,-1,-1
+18,Flamengo,Criciúma,1,1,1,1,1,1,1,1,1,1
+18,Botafogo,Internacional,1,1,1,1,1,1,0,1,1,1
+18,Palmeiras,Cruzeiro,1,0,1,1,1,0,1,0,1,0
+18,Grêmio,Vitória,1,0,1,1,1,1,1,1,0,1
+18,Atlético-MG,Vasco,1,0,2,1,1,1,0,1,0,0
+18,Bahia,Corinthians,2,1,2,1,1,1,1,1,1,1
+18,Bragantino,Athletico-PR,1,1,1,1,2,1,1,0,1,0
+18,Fortaleza,Atlético-GO,1,1,1,1,1,1,1,1,1,1
+18,Juventude,São Paulo,0,0,2,2,2,0,1,0,1,2
+18,Cuiabá,Fluminense,2,0,2,2,1,0,1,1,1,0
+19,Cruzeiro,Juventude,1,1,1,1,1,1,1,1,1,1
+19,São Paulo,Botafogo,0,2,1,1,1,0,2,0,0,2
+19,Vitória,Flamengo,2,2,0,2,2,2,2,2,2,2
+19,Fluminense,Palmeiras,1,0,0,0,2,2,2,2,0,2
+19,Atlético-GO,Bahia,0,2,2,2,1,2,2,0,2,2
+19,Corinthians,Grêmio,0,1,1,1,1,1,0,0,1,0
+19,Criciúma,Bragantino,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+19,Internacional,Fortaleza,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+19,Vasco,Cuiabá,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+19,Athletico-PR,Atlético-MG,1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+20,Palmeiras,Vitória,2,1,1,1,1,1,1,1,1,1
+20,Juventude,Criciúma,2,0,1,1,1,1,1,0,1,0
+20,Bahia,Internacional,0,1,0,1,1,1,1,0,1,1
+20,Botafogo,Cruzeiro,2,1,1,1,1,1,2,0,1,0
+20,Fortaleza,São Paulo,1,1,1,0,1,1,0,0,1,1
+20,Bragantino,Fluminense,2,0,2,1,1,0,0,0,2,0
+20,Flamengo,Atlético-GO,1,1,1,1,1,1,1,1,1,1
+20,Grêmio,Vasco,1,0,1,1,1,0,1,0,0,2
+20,Atlético-MG,Corinthians,1,1,0,1,1,1,0,1,1,1
+20,Cuiabá,Athletico-PR,2,0,1,2,1,2,0,0,2,0
+21,Vitória,Cuiabá,1,0,1,1,1,1,0,1,1,1
+21,Vasco,Bragantino,0,1,1,0,1,1,1,1,1,0
+21,Atlético-GO,Botafogo,2,2,0,2,2,2,2,0,2,0
+21,Criciúma,Atlético-MG,1,0,1,2,2,0,1,0,2,0
+21,São Paulo,Flamengo,1,2,2,1,1,0,1,1,2,1
+21,Fluminense,Bahia,1,1,1,0,1,1,0,1,2,1
+21,Corinthians,Juventude,0,1,0,1,1,1,0,1,1,0
+21,Athletico-PR,Grêmio,2,1,1,1,1,0,1,1,1,2
+21,Internacional,Palmeiras,0,1,1,0,1,0,0,0,1,1
+21,Cruzeiro,Fortaleza,2,1,1,1,1,1,0,1,1,1
+22,Fortaleza,Criciúma,1,1,1,1,1,1,0,1,1,1
+22,Cuiabá,Grêmio,2,0,2,1,1,2,2,1,1,2
+22,Cruzeiro,Atlético-MG,0,0,0,2,2,1,1,0,2,1
+22,Vasco,Fluminense,1,0,2,2,1,0,2,0,1,0
+22,Corinthians,Bragantino,0,1,0,1,1,1,1,0,1,0
+22,Juventude,Botafogo,1,0,0,2,2,2,2,0,1,1
+22,Bahia,Vitória,1,1,1,1,1,1,1,1,0,0
+22,Flamengo,Palmeiras,0,1,1,1,1,0,0,1,1,1
+22,São Paulo,Atlético-GO,1,1,1,1,1,1,1,1,1,1
+22,Internacional,Athletico-PR,0,0,1,0,1,1,1,0,2,0
+23,Grêmio,Bahia,2,2,0,1,1,0,0,2,2,1
+23,Atlético-MG,Cuiabá,0,1,1,1,1,1,1,1,1,1
+23,Bragantino,Fortaleza,2,0,0,1,1,2,2,0,2,0
+23,Fluminense,Corinthians,0,2,1,1,1,1,0,1,1,2
+23,Palmeiras,São Paulo,1,0,1,1,1,0,0,0,1,0
+23,Atlético-GO,Internacional,1,2,1,0,2,2,2,0,1,2
+23,Criciúma,Vasco,0,0,1,1,1,1,1,1,0,2
+23,Botafogo,Flamengo,1,1,1,1,1,1,1,1,1,0
+23,Athletico-PR,Juventude,2,1,0,1,1,0,2,0,1,0
+23,Vitória,Cruzeiro,0,0,1,2,2,2,2,0,1,0
+24,Atlético-GO,Juventude,1,2,0,1,1,0,0,0,2,2
+24,Palmeiras,Cuiabá,1,1,1,1,1,1,1,1,1,0
+24,Atlético-MG,Fluminense,2,0,2,1,1,0,1,1,1,1
+24,Bahia,Botafogo,0,0,2,1,1,0,0,0,0,1
+24,Fortaleza,Corinthians,1,1,1,1,1,1,1,1,1,1
+24,Criciúma,Grêmio,2,1,2,1,1,0,2,1,1,0
+24,São Paulo,Vitória,1,1,1,1,1,1,1,1,1,1
+24,Internacional,Cruzeiro,1,0,0,1,1,0,2,2,0,0
+24,Flamengo,Bragantino,1,0,1,1,1,1,1,1,1,0
+24,Vasco,Athletico-PR,1,0,1,1,1,1,1,0,1,2
+25,Cuiabá,Criciúma,1,0,1,0,0,0,2,2,2,2
+25,Botafogo,Fortaleza,1,1,1,1,1,1,0,0,1,0
+25,Grêmio,Atlético-MG,2,-1,1,2,1,1,0,2,2,2
+25,Cruzeiro,Atlético-GO,1,1,1,1,1,1,1,1,1,1
+25,Corinthians,Flamengo,1,2,0,0,2,0,2,0,2,2
+25,Vitória,Vasco,2,0,1,2,1,0,2,1,0,2
+25,Fluminense,São Paulo,1,0,1,1,1,1,0,0,1,0
+25,Bragantino,Bahia,1,2,2,1,1,2,2,0,2,2
+25,Athletico-PR,Palmeiras,2,0,1,0,1,1,1,1,1,0
+25,Juventude,Internacional,2,1,2,2,0,1,0,0,1,0
+26,Atlético-GO,Vitória,2,0,1,1,1,1,2,1,2,1
+26,Athletico-PR,Fortaleza,0,0,2,1,1,0,2,0,2,0
+26,Botafogo,Corinthians,1,1,1,1,1,1,1,1,1,1
+26,Palmeiras,Criciúma,1,1,1,1,1,1,1,1,1,1
+26,Bragantino,Grêmio,0,0,1,1,1,2,0,1,1,0
+26,Juventude,Fluminense,1,0,0,2,1,0,2,2,0,0
+26,Cruzeiro,São Paulo,2,1,1,1,1,1,1,0,1,0
+26,Bahia,Atlético-MG,1,1,2,2,1,1,2,0,1,1
+26,Flamengo,Vasco,0,0,2,1,1,0,1,0,0,0
+26,Internacional,Cuiabá,1,1,1,1,1,1,1,1,1,1
+27,Vitória,Juventude,1,0,2,1,1,0,0,1,1,0
+27,Corinthians,Atlético-GO,1,1,1,1,1,1,1,1,1,1
+27,Fluminense,Botafogo,2,2,0,0,2,2,2,2,0,0
+27,Fortaleza,Bahia,1,0,1,1,1,0,0,0,0,2
+27,Atlético-MG,Bragantino,1,1,1,0,1,1,1,1,1,1
+27,Vasco,Palmeiras,2,2,2,2,2,0,2,0,1,2
+27,Grêmio,Flamengo,1,0,0,0,2,1,1,1,0,0
+27,São Paulo,Internacional,2,0,2,1,1,2,0,0,1,2
+27,Cuiabá,Cruzeiro,0,2,2,0,1,2,2,2,2,0
+27,Criciúma,Athletico-PR,0,0,1,1,1,1,1,1,1,2
+28,Palmeiras,Atlético-MG,1,1,1,1,1,1,1,1,1,2
+28,Botafogo,Grêmio,0,1,1,1,1,1,1,1,1,1
+28,Juventude,Bragantino,0,0,1,1,1,1,1,1,1,0
+28,São Paulo,Corinthians,1,0,1,0,2,0,0,1,0,0
+28,Fortaleza,Cuiabá,1,1,1,1,1,1,1,0,1,1
+28,Atlético-GO,Fluminense,1,2,2,2,2,2,2,0,2,2
+28,Internacional,Vitória,1,1,1,1,1,1,1,1,1,1
+28,Cruzeiro,Vasco,0,0,1,1,1,1,1,0,0,0
+28,Bahia,Criciúma,1,1,2,1,1,1,0,1,1,1
+28,Flamengo,Athletico-PR,1,1,1,1,1,1,1,1,1,1
+29,Criciúma,Atlético-GO,1,1,0,1,1,1,1,0,1,0
+29,Fluminense,Cruzeiro,1,0,1,1,1,0,0,0,0,0
+29,Grêmio,Fortaleza,1,1,2,0,1,1,1,0,2,1
+29,Atlético-MG,Vitória,0,0,1,1,1,1,1,1,1,1
+29,Bragantino,Palmeiras,0,2,2,0,2,2,2,2,2,0
+29,Athletico-PR,Botafogo,2,2,2,0,2,2,2,0,2,1
+29,Bahia,Flamengo,2,0,0,1,1,0,1,1,1,2
+29,Corinthians,Internacional,0,1,0,1,2,1,0,2,0,1
+29,Cuiabá,São Paulo,1,2,2,2,2,0,2,0,2,2
+29,Vasco,Juventude,0,1,1,1,1,1,0,1,1,1
+30,São Paulo,Vasco,1,1,1,1,1,0,2,1,0,1
+30,Fortaleza,Atlético-MG,0,0,1,1,1,1,1,1,1,1
+30,Flamengo,Fluminense,2,0,1,1,1,1,1,1,0,1
+30,Corinthians,Athletico-PR,1,1,1,1,1,1,1,1,1,1
+30,Atlético-GO,Cuiabá,0,2,2,1,0,0,0,2,1,1
+30,Botafogo,Criciúma,0,1,1,1,1,1,1,1,1,1
+30,Cruzeiro,Bahia,0,0,1,0,1,1,1,0,0,0
+30,Internacional,Grêmio,1,1,1,1,1,1,0,1,1,0
+30,Vitória,Bragantino,1,0,1,1,1,0,2,1,1,1
+30,Juventude,Palmeiras,2,2,2,2,2,2,0,2,2,0
+31,Grêmio,Atlético-GO,1,1,1,1,1,1,1,0,1,1
+31,Vitória,Fluminense,1,2,2,0,1,0,0,1,2,2
+31,Flamengo,Juventude,1,1,1,1,1,1,1,1,1,1
+31,Palmeiras,Fortaleza,0,1,1,1,1,1,1,1,1,1
+31,Athletico-PR,Cruzeiro,1,0,1,1,1,0,2,1,2,0
+31,Atlético-MG,Internacional,2,0,2,0,1,2,2,2,1,1
+31,Bragantino,Botafogo,2,2,2,0,2,2,2,2,2,2
+31,Criciúma,São Paulo,0,0,1,0,2,1,1,0,0,2
+31,Cuiabá,Corinthians,2,2,1,2,2,2,0,0,0,2
+31,Vasco,Bahia,1,0,0,2,1,0,1,0,1,1
+32,Fluminense,Grêmio,0,0,1,1,1,0,1,1,1,1
+32,Bragantino,Cuiabá,0,1,1,1,1,1,1,1,1,1
+32,Athletico-PR,Vitória,2,1,1,1,1,0,0,1,2,0
+32,Juventude,Fortaleza,2,0,2,0,1,0,1,0,1,2
+32,Corinthians,Palmeiras,1,0,2,0,2,0,2,0,1,2
+32,Internacional,Criciúma,1,1,1,1,1,1,1,1,1,1
+32,Bahia,São Paulo,2,1,0,1,0,1,1,1,1,1
+32,Botafogo,Vasco,1,1,0,1,1,1,0,1,1,1
+32,Cruzeiro,Flamengo,2,0,1,1,1,0,1,1,0,2
+32,Atlético-GO,Atlético-MG,1,2,0,1,2,2,2,0,2,2
+33,Internacional,Fluminense,1,1,1,1,1,1,1,1,1,1
+33,Palmeiras,Grêmio,1,1,0,1,1,1,1,1,1,1
+33,Vitória,Corinthians,2,0,1,1,1,0,1,0,1,0
+33,Botafogo,Cuiabá,0,1,1,1,1,1,1,1,1,1
+33,Cruzeiro,Criciúma,1,0,0,0,1,1,0,0,0,1
+33,Fortaleza,Vasco,1,1,1,1,1,1,1,1,0,1
+33,Atlético-GO,Bragantino,0,0,0,0,1,0,0,2,1,1
+33,Juventude,Bahia,1,1,1,1,2,0,0,0,0,2
+33,São Paulo,Athletico-PR,1,1,1,1,1,1,1,1,1,1
+33,Flamengo,Atlético-MG,0,1,1,1,1,0,0,1,1,0
+34,Corinthians,Cruzeiro,1,1,1,1,1,1,1,1,1,1
+34,Bragantino,São Paulo,0,2,2,1,2,0,0,1,0,0
+34,Athletico-PR,Atlético-GO,1,1,1,1,1,1,1,1,1,1
+34,Criciúma,Vitória,2,0,0,1,1,1,0,0,1,0
+34,Bahia,Palmeiras,2,2,2,2,2,0,2,0,2,2
+34,Grêmio,Juventude,0,1,2,1,1,1,1,1,1,1
+34,Cuiabá,Flamengo,2,2,2,2,2,2,2,2,2,2
+34,Atlético-MG,Botafogo,0,2,2,2,2,2,2,0,0,0
+34,Vasco,Internacional,2,2,2,0,2,2,2,0,1,2
+34,Fluminense,Fortaleza,0,0,0,1,1,0,0,0,2,1
+35,Botafogo,Vitória,0,1,0,1,1,1,1,1,1,1
+35,Atlético-GO,Palmeiras,2,2,2,2,2,2,2,2,2,2
+35,Juventude,Cuiabá,0,0,1,1,1,1,1,1,1,1
+35,São Paulo,Atlético-MG,0,1,0,1,1,0,0,1,0,1
+35,Internacional,Bragantino,1,1,1,1,1,1,1,1,1,1
+35,Bahia,Athletico-PR,0,0,0,1,1,1,1,0,1,0
+35,Corinthians,Vasco,1,1,1,1,1,1,1,1,0,1
+35,Fluminense,Criciúma,0,0,1,1,1,1,0,1,1,1
+35,Fortaleza,Flamengo,0,1,2,0,1,0,1,0,1,1
+35,Cruzeiro,Grêmio,0,0,1,1,1,0,0,0,1,0
+36,Atlético-MG,Juventude,2,-1,-1,-1,-1,-1,-1,-1,-1,1
+36,Palmeiras,Botafogo,2,-1,-1,-1,-1,-1,-1,-1,-1,1
+36,Cuiabá,Bahia,2,0,0,2,2,2,2,2,2,2
+36,Criciúma,Corinthians,2,2,0,0,2,0,0,0,1,2
+36,Vasco,Atlético-GO,0,1,1,1,1,1,1,1,1,1
+36,Grêmio,São Paulo,1,0,1,0,1,1,1,2,2,0
+36,Flamengo,Internacional,1,0,1,0,1,0,0,0,1,0
+36,Vitória,Fortaleza,1,0,1,1,1,2,1,1,0,0
+36,Bragantino,Cruzeiro,0,0,2,1,1,0,0,1,2,2
+36,Athletico-PR,Fluminense,0,1,1,1,1,0,2,0,1,1
+37,Corinthians,Bahia,1,1,0,1,1,1,1,1,1,1
+37,Vasco,Atlético-MG,1,0,1,2,1,0,1,0,1,0
+37,Vitória,Grêmio,0,1,1,1,1,1,1,1,1,1
+37,São Paulo,Juventude,2,0,0,1,1,1,1,0,1,1
+37,Criciúma,Flamengo,2,0,2,2,2,2,2,0,2,2
+37,Internacional,Botafogo,2,2,0,2,2,2,2,1,2,1
+37,Cruzeiro,Palmeiras,2,2,2,2,2,2,2,0,0,2
+37,Atlético-GO,Fortaleza,1,0,2,0,2,2,2,2,2,2
+37,Fluminense,Cuiabá,1,1,1,1,1,1,1,1,1,1
+37,Athletico-PR,Bragantino,2,1,1,0,1,1,1,1,1,1
+38,Grêmio,Corinthians,2,2,2,2,2,0,0,1,2,1
+38,Atlético-MG,Athletico-PR,1,1,2,0,1,0,1,1,1,0
+38,Bahia,Atlético-GO,1,1,0,1,1,1,1,1,1,1
+38,Flamengo,Vitória,0,1,1,1,1,1,1,1,1,1
+38,Botafogo,São Paulo,1,1,1,1,1,1,1,1,1,1
+38,Palmeiras,Fluminense,2,1,1,1,1,1,1,1,1,1
+38,Bragantino,Criciúma,1,1,1,1,1,0,1,1,1,1
+38,Fortaleza,Internacional,1,0,2,0,2,0,2,2,1,0
+38,Cuiabá,Vasco,2,0,0,1,2,2,2,0,2,2
+38,Juventude,Cruzeiro,2,1,1,1,1,1,1,0,1,1
+Total acertos,,,380,171,164,168,186,169,166,159,172,160
+Total palpites,,,380,361,362,362,362,362,362,362,362,364
+Aproveitamento,,,"100,00%","47,37%","45,30%","46,41%","51,38%","46,69%","45,86%","43,92%","47,51%","43,96%"
+Casa,,,180,167,197,235,276,191,182,174,230,173
+Fora,,,99,62,89,50,79,58,77,40,65,83
+Empate,,,101,132,76,77,7,113,103,148,67,108
+Nulo,,,0,19,18,18,18,18,18,18,18,16
